@@ -1,1 +1,1 @@
-You will find in this repository all the Jupyter Notebook for this project.
+You can find in this repository all the Jupyter Notebooks related to this project.
